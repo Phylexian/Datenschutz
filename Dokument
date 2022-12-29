@@ -1,1 +1,7 @@
-Hier steht alles
+Durch die App Quizlist werden keinerlei Nutzerdaten erhoben. 
+
+Die einzige notwendige Berechtigung ist 
+
+ACCESS_NETWORK_STATE:
+Das Zugriffsrecht "ACCESS_NETWORK_STATE" nutzt die App ausschließlich, um zu prüfen, ob das Gerät momentan mit dem Internet verbunden werden kann. 
+Diese Prüfung findet während des Bestellvorgangs statt und dient dazu, dem Benutzer eine Fehlermeldung anzuzeigen, falls momentan keine Internetverbindung besteht und die Bestellemail dadurch aktuell nicht versendet werden kann. Die Information über den Netzwerkstatus wird nicht gespeichert, nicht weitergegeben und nicht anderweitig verwendet.
